@@ -1,0 +1,3 @@
+com\control\LoginController.class
+com\bean\User.class
+com\service\UserService.class
